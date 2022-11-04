@@ -1,0 +1,15 @@
+C:\Users\maste\code\lab9BenjmainSeamons\bin\Debug\net6.0\lab9BenjmainSeamons.exe
+C:\Users\maste\code\lab9BenjmainSeamons\bin\Debug\net6.0\lab9BenjmainSeamons.deps.json
+C:\Users\maste\code\lab9BenjmainSeamons\bin\Debug\net6.0\lab9BenjmainSeamons.runtimeconfig.json
+C:\Users\maste\code\lab9BenjmainSeamons\bin\Debug\net6.0\lab9BenjmainSeamons.dll
+C:\Users\maste\code\lab9BenjmainSeamons\bin\Debug\net6.0\lab9BenjmainSeamons.pdb
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\lab9BenjmainSeamons.csproj.AssemblyReference.cache
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\lab9BenjmainSeamons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\lab9BenjmainSeamons.AssemblyInfoInputs.cache
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\lab9BenjmainSeamons.AssemblyInfo.cs
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\lab9BenjmainSeamons.csproj.CoreCompileInputs.cache
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\lab9BenjmainSeamons.dll
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\refint\lab9BenjmainSeamons.dll
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\lab9BenjmainSeamons.pdb
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\lab9BenjmainSeamons.genruntimeconfig.cache
+C:\Users\maste\code\lab9BenjmainSeamons\obj\Debug\net6.0\ref\lab9BenjmainSeamons.dll
