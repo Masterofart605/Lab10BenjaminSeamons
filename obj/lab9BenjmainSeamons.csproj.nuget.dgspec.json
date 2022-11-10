@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maste\\code\\lab9BenjmainSeamons\\lab9BenjmainSeamons.csproj": {}
+    "C:\\Users\\maste\\code\\lab10BenjaminSeamons\\lab9BenjmainSeamons.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maste\\code\\lab9BenjmainSeamons\\lab9BenjmainSeamons.csproj": {
+    "C:\\Users\\maste\\code\\lab10BenjaminSeamons\\lab9BenjmainSeamons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maste\\code\\lab9BenjmainSeamons\\lab9BenjmainSeamons.csproj",
+        "projectUniqueName": "C:\\Users\\maste\\code\\lab10BenjaminSeamons\\lab9BenjmainSeamons.csproj",
         "projectName": "lab9BenjmainSeamons",
-        "projectPath": "C:\\Users\\maste\\code\\lab9BenjmainSeamons\\lab9BenjmainSeamons.csproj",
+        "projectPath": "C:\\Users\\maste\\code\\lab10BenjaminSeamons\\lab9BenjmainSeamons.csproj",
         "packagesPath": "C:\\Users\\maste\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maste\\code\\lab9BenjmainSeamons\\obj\\",
+        "outputPath": "C:\\Users\\maste\\code\\lab10BenjaminSeamons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maste\\AppData\\Roaming\\NuGet\\NuGet.Config"

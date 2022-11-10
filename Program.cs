@@ -5,6 +5,17 @@
         List<string> TodoList = new List<string>();
         List<string> CompletedList = new List<string>();
         DateTime now;
+        //Read the Data Stored in the flies
+        string[] TodoListArray = File.ReadAllLines("To-do");
+        string[] CompletedListArray = File.ReadAllLines("Complete");
+        //convert the file to-do to a list in the program
+        foreach(string item in TodoListArray){
+            TodoList.Add(item);
+        }
+        //convert the file complete to a list in the program
+        foreach(string item in CompletedListArray){
+            CompletedList.Add(item);
+        }
         while (true){
             Console.WriteLine($"Welcome to your to-do list app.");
             Console.Write("What would you like to do? \n 1:See To-do List \n 2:See Completed list \n 0:Exit \n");
@@ -12,18 +23,9 @@
 
 
 
-            //Read the Data Stored in the flies
-                string[] TodoListArray = File.ReadAllLines("To-do");
-                string[] CompletedListArray = File.ReadAllLines("Complete");
+            
                 Console.ForegroundColor = ConsoleColor.Blue;
-                //convert the file to-do to a list in the program
-                foreach(string item in TodoListArray){
-                    TodoList.Add(item);
-                }
-                //convert the file complete to a list in the program
-                foreach(string item in CompletedListArray){
-                    CompletedList.Add(item);
-                }
+                
 
 
             if(keypress == ConsoleKey.D1){
