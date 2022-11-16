@@ -148,7 +148,7 @@
                     statsTotal++;
                     startCOMP++;
                 }
-                //this is all the calulations for well stuff
+                //this is all the calulations for, well... stuff
                 {
                 List<DateOnly> todoStartDate = new List<DateOnly>();
                 foreach (string bruh in TodoList)
@@ -162,17 +162,21 @@
                     Console.WriteLine(bruh);
                     
                 }
-                /*
-                foreach (DateOnly bruh in todoStartDate){
-                    int lebruh = 0;
-                    DateOnly.Compare(todoStartDate.ElementAt(lebruh), todoStartDate.ElementAt(lebruh-1));
                 }
-                */
+                foreach (string entry in CompletedList){
+                    string endTime;
+                    string startTime;
+                    string[] splitList = entry.Split(";");
+                    DateTime startTimeDT = Convert.ToDateTime(startTime = splitList[1]);
+                    DateTime endTimeDT = Convert.ToDateTime(endTime = splitList[3]);
+                    string justTime = startTime+endTime;
+                    /*
+                    TimeSpan justTimeTS = startTimeDT 
+                    Console.WriteLine(TimeSpan.Parse(startTimeDT));
+                    */
+                }
+
                 
-                }
-
-
-
 
 
                 
@@ -184,7 +188,7 @@
                 }
                 File.WriteAllLines("Stats.csv", StatsList);
 
-                break;
+                //break;
             }else{
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("This is not the right key");
